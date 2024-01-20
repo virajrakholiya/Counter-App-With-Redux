@@ -46,5 +46,6 @@ Copy code
 npx react-native run-android
 # or
 npx react-native run-ios
+
 Contributing
 Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or create a pull request.
