@@ -44,8 +44,9 @@ Run the app on an Android or iOS emulator/device:
 bash
 Copy code
 npx react-native run-android
-# or
+or
 npx react-native run-ios
 
-Contributing
+# Contributing
+
 Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or create a pull request.
